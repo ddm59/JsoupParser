@@ -6,7 +6,6 @@ import org.jsoup.select.Elements
 
 const val BASE_URL =
     "https://mybook.ru/author/duglas-adams/avtostopom-po-galaktike-restoran-u-konca-vselennoj/citations/?page=1"
-
 //Попробовал реализовать парсинг всех цитат по книге (сделал из интереса, прошу сильно не ругаться))))
 // В общем работает правда очень медленно. Либо я коряво написал, либо связанно с самим ресурсом.
 //Если потребуется переделаю под ТЗ. Интересно что я сделал не так.
